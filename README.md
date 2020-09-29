@@ -32,6 +32,9 @@ python download_glue_data.py --data_dir data --tasks all
 
 ![QNLI](curves/qnli.jpg)
 
+![MNLI](curves/mnli.jpg)
+
+![QQP](curves/qqp.jpg)
 
 ## Usage
 
